@@ -1,0 +1,26 @@
+{
+    "transaksi": [
+        {
+            "id_transaksi": 101,
+            "produk": "Kopi",
+            "jumlah": 3,
+            "harga_satuan": 15000,
+            "total": 45000
+        },
+        {
+            "id_transaksi": 102,
+            "produk": "Roti",
+            "jumlah": 2,
+            "harga_satuan": 12000,
+            "total": 24000
+        },
+        {
+            "id_transaksi": 103,
+            "produk": "Teh",
+            "jumlah": 4,
+            "harga_satuan": 8000,
+            "total": 32000
+        }
+    ],
+    "total_seluruh_penjualan": 101000
+}

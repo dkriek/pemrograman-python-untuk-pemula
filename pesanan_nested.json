@@ -1,0 +1,27 @@
+{
+    "orders": [
+        {
+            "order_id": "ORD-001",
+            "tanggal": "2026-11-24",
+            "customer": {
+                "id": 1,
+                "nama": "Ayu"
+            },
+            "items": [
+                {"produk": "Kopi", "jumlah": 2, "harga": 15000},
+                {"produk": "Roti", "jumlah": 1, "harga": 12000}
+            ]
+        },
+        {
+            "order_id": "ORD-002",
+            "tanggal": "2026-11-25",
+            "customer": {
+                "id": 2,
+                "nama": "Bima"
+            },
+            "items": [
+                {"produk": "Teh", "jumlah": 3, "harga": 8000}
+            ]
+        }
+    ]
+}
